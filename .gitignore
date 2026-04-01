@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npy
+*.egg-info/
+.agents/
+.claude/
+*.log
